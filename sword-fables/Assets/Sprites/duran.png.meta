@@ -1,0 +1,6547 @@
+fileFormatVersion: 2
+guid: 996fdae61c54af74b8590cae5edaf8aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7364065701750917505
+    second: duran_0
+  - first:
+      213: 6429670543410819267
+    second: duran_1
+  - first:
+      213: -7286147100436354069
+    second: duran_2
+  - first:
+      213: -4015458517477527095
+    second: duran_3
+  - first:
+      213: 2356753840887232190
+    second: duran_4
+  - first:
+      213: 6880424198939389244
+    second: duran_5
+  - first:
+      213: 3912972041861455105
+    second: duran_6
+  - first:
+      213: 165715408407775681
+    second: duran_7
+  - first:
+      213: 1954382897871302449
+    second: duran_8
+  - first:
+      213: 7896976740494256835
+    second: duran_9
+  - first:
+      213: -9215951040554240598
+    second: duran_10
+  - first:
+      213: 3516278492422040742
+    second: duran_11
+  - first:
+      213: -390419798364099448
+    second: duran_12
+  - first:
+      213: -122608548068485724
+    second: duran_13
+  - first:
+      213: -4394268734052840603
+    second: duran_14
+  - first:
+      213: -5188903276158497427
+    second: duran_15
+  - first:
+      213: 2936905214626040433
+    second: duran_16
+  - first:
+      213: 3122223677185521806
+    second: duran_17
+  - first:
+      213: 2708360366213684025
+    second: duran_18
+  - first:
+      213: -5671534435342382769
+    second: duran_19
+  - first:
+      213: -3240737714949294742
+    second: duran_20
+  - first:
+      213: 2052933533443560357
+    second: duran_21
+  - first:
+      213: -3062612564775683934
+    second: duran_22
+  - first:
+      213: 5403596113804003549
+    second: duran_23
+  - first:
+      213: -9136090271171499316
+    second: duran_24
+  - first:
+      213: 7507272751636769851
+    second: duran_25
+  - first:
+      213: -5641911789551820518
+    second: duran_26
+  - first:
+      213: -789314883847674843
+    second: duran_27
+  - first:
+      213: -1430939251111272123
+    second: duran_28
+  - first:
+      213: 6506400926151115014
+    second: duran_29
+  - first:
+      213: 3473894433426948881
+    second: duran_30
+  - first:
+      213: 6979868892811918913
+    second: duran_31
+  - first:
+      213: 5671091817240690881
+    second: duran_32
+  - first:
+      213: 1817437320561169574
+    second: duran_33
+  - first:
+      213: 5973682694321682094
+    second: duran_34
+  - first:
+      213: -8005493666301919846
+    second: duran_35
+  - first:
+      213: 273670146763675436
+    second: duran_36
+  - first:
+      213: -4318560495588438861
+    second: duran_37
+  - first:
+      213: 9174741121188575694
+    second: duran_38
+  - first:
+      213: -7839316436097267062
+    second: duran_39
+  - first:
+      213: 8879493924890094767
+    second: duran_40
+  - first:
+      213: -6030369086969315533
+    second: duran_41
+  - first:
+      213: -7504385694525876170
+    second: duran_42
+  - first:
+      213: 7847953492617613426
+    second: duran_43
+  - first:
+      213: -3373971317287047549
+    second: duran_44
+  - first:
+      213: 1720873724691336785
+    second: duran_45
+  - first:
+      213: -1731784645035369403
+    second: duran_46
+  - first:
+      213: -6672290255355479759
+    second: duran_47
+  - first:
+      213: 8081645300874721322
+    second: duran_48
+  - first:
+      213: -7060194808638718550
+    second: duran_49
+  - first:
+      213: 1928183031952644306
+    second: duran_50
+  - first:
+      213: 627408710271628137
+    second: duran_51
+  - first:
+      213: -7794247002115777580
+    second: duran_52
+  - first:
+      213: -3619500752002864763
+    second: duran_53
+  - first:
+      213: -3922058853418657460
+    second: duran_54
+  - first:
+      213: -8757863441561522066
+    second: duran_55
+  - first:
+      213: -1536817685930771741
+    second: duran_56
+  - first:
+      213: -8481798503659777304
+    second: duran_57
+  - first:
+      213: 1248800669035866473
+    second: duran_58
+  - first:
+      213: 7850564050105339818
+    second: duran_59
+  - first:
+      213: 6833924357731439734
+    second: duran_60
+  - first:
+      213: 7546553867537331574
+    second: duran_61
+  - first:
+      213: -5905123629790411781
+    second: duran_62
+  - first:
+      213: -7181505235263185843
+    second: duran_63
+  - first:
+      213: 733463434983773403
+    second: duran_64
+  - first:
+      213: -8685604794407030850
+    second: duran_65
+  - first:
+      213: -9059003228211719730
+    second: duran_66
+  - first:
+      213: -6158601060447954345
+    second: duran_67
+  - first:
+      213: -1744147180678708522
+    second: duran_68
+  - first:
+      213: -1183090769488529442
+    second: duran_69
+  - first:
+      213: -5594938724067648137
+    second: duran_70
+  - first:
+      213: -1035413403305741537
+    second: duran_71
+  - first:
+      213: -1269022640635239973
+    second: duran_72
+  - first:
+      213: 4096989159868647901
+    second: duran_73
+  - first:
+      213: 6415648081751321061
+    second: duran_74
+  - first:
+      213: 4212878372192769461
+    second: duran_75
+  - first:
+      213: 5462703465326755021
+    second: duran_76
+  - first:
+      213: -5017820767007482991
+    second: duran_77
+  - first:
+      213: 6215502349421947372
+    second: duran_78
+  - first:
+      213: 4974734965897329736
+    second: duran_79
+  - first:
+      213: 2125332352548823847
+    second: duran_80
+  - first:
+      213: 1447479469655532838
+    second: duran_81
+  - first:
+      213: -5416216146959986288
+    second: duran_82
+  - first:
+      213: -8443530251612880507
+    second: duran_83
+  - first:
+      213: 7821612269520967418
+    second: duran_84
+  - first:
+      213: -1398612038178781794
+    second: duran_85
+  - first:
+      213: 3376174783840255534
+    second: duran_86
+  - first:
+      213: -9021644797203727051
+    second: duran_87
+  - first:
+      213: 1408748400470266362
+    second: duran_88
+  - first:
+      213: -5378881422414412340
+    second: duran_89
+  - first:
+      213: 2427936483848690923
+    second: duran_90
+  - first:
+      213: -2497940706016924228
+    second: duran_91
+  - first:
+      213: 4014529905835482070
+    second: duran_92
+  - first:
+      213: 1166624675965321217
+    second: duran_93
+  - first:
+      213: -4091964689763234845
+    second: duran_94
+  - first:
+      213: 8156889215165317887
+    second: duran_95
+  - first:
+      213: -5516014713280759006
+    second: duran_96
+  - first:
+      213: -7843150686917435699
+    second: duran_97
+  - first:
+      213: -8035979231525505587
+    second: duran_98
+  - first:
+      213: 7197794844683545845
+    second: duran_99
+  - first:
+      213: 8682138507967299273
+    second: duran_100
+  - first:
+      213: 475592373904786852
+    second: duran_101
+  - first:
+      213: -5806855164461912794
+    second: duran_102
+  - first:
+      213: -4649077846835023644
+    second: duran_103
+  - first:
+      213: -8462518321463978597
+    second: duran_104
+  - first:
+      213: -4027419319332548573
+    second: duran_105
+  - first:
+      213: -1204607619209304603
+    second: duran_106
+  - first:
+      213: -5346564580274042117
+    second: duran_107
+  - first:
+      213: -1471981728050065006
+    second: duran_108
+  - first:
+      213: 8736913829566041897
+    second: duran_109
+  - first:
+      213: 445780199262178807
+    second: duran_110
+  - first:
+      213: 5808701794713085441
+    second: duran_111
+  - first:
+      213: 4636381362430236144
+    second: duran_112
+  - first:
+      213: -2380236182210225006
+    second: duran_113
+  - first:
+      213: 3212056881564885403
+    second: duran_114
+  - first:
+      213: 7331281824249002816
+    second: duran_115
+  - first:
+      213: 6302518685504860336
+    second: duran_116
+  - first:
+      213: -4126947880993344753
+    second: duran_117
+  - first:
+      213: -6778848552937613068
+    second: duran_118
+  - first:
+      213: -3432174857634840426
+    second: duran_119
+  - first:
+      213: 8638961796164664516
+    second: duran_120
+  - first:
+      213: 6881492213660075585
+    second: duran_121
+  - first:
+      213: 183503366626830235
+    second: duran_122
+  - first:
+      213: -116162013603183242
+    second: duran_123
+  - first:
+      213: -1712049930819582347
+    second: duran_124
+  - first:
+      213: 7314910472692729392
+    second: duran_125
+  - first:
+      213: 7574289916394741244
+    second: duran_126
+  - first:
+      213: -712619654855128459
+    second: duran_127
+  - first:
+      213: 8255503015470041815
+    second: duran_128
+  - first:
+      213: -2400429653162805300
+    second: duran_129
+  - first:
+      213: -5159383391554260331
+    second: duran_130
+  - first:
+      213: 6680390174422662521
+    second: duran_131
+  - first:
+      213: -1349603776432423821
+    second: duran_132
+  - first:
+      213: -8168405156254124434
+    second: duran_133
+  - first:
+      213: -1534225153884146379
+    second: duran_134
+  - first:
+      213: 6302373828955869
+    second: duran_135
+  - first:
+      213: 6324733384797766477
+    second: duran_136
+  - first:
+      213: -7311754824746667321
+    second: duran_137
+  - first:
+      213: -8477810075415036161
+    second: duran_138
+  - first:
+      213: -9220661247151640506
+    second: duran_139
+  - first:
+      213: 1666988018502382786
+    second: duran_140
+  - first:
+      213: 5361200715458875931
+    second: duran_141
+  - first:
+      213: 186335043758526608
+    second: duran_142
+  - first:
+      213: -9103487003060464128
+    second: duran_143
+  - first:
+      213: -8866180597014739815
+    second: duran_144
+  - first:
+      213: 8832842554846070619
+    second: duran_145
+  - first:
+      213: -6560566021920740775
+    second: duran_146
+  - first:
+      213: -2952050276684597052
+    second: duran_147
+  - first:
+      213: 4763735130413875589
+    second: duran_148
+  - first:
+      213: -8257024821432155369
+    second: duran_149
+  - first:
+      213: 6627715654718822269
+    second: duran_150
+  - first:
+      213: -5125321461850150691
+    second: duran_151
+  - first:
+      213: -4647828470736107020
+    second: duran_152
+  - first:
+      213: -6676437806886638186
+    second: duran_153
+  - first:
+      213: 1926545018501270895
+    second: duran_154
+  - first:
+      213: -2228791922632510437
+    second: duran_155
+  - first:
+      213: 3759130227748349172
+    second: duran_156
+  - first:
+      213: 4968201766052298356
+    second: duran_157
+  - first:
+      213: 2423946119751404092
+    second: duran_158
+  - first:
+      213: 7409133425247923647
+    second: duran_159
+  - first:
+      213: -3911801504662536368
+    second: duran_160
+  - first:
+      213: 5860655965998552743
+    second: duran_161
+  - first:
+      213: 3572126263801726847
+    second: duran_162
+  - first:
+      213: -8634524243880065389
+    second: duran_163
+  - first:
+      213: -2511733500214507203
+    second: duran_164
+  - first:
+      213: 908187705153418401
+    second: duran_165
+  - first:
+      213: -24020256221606142
+    second: duran_166
+  - first:
+      213: -7903192751950138502
+    second: duran_167
+  - first:
+      213: 7075655036656942213
+    second: duran_168
+  - first:
+      213: 447705894068777071
+    second: duran_169
+  - first:
+      213: -1107056340276192147
+    second: duran_170
+  - first:
+      213: 623645899163922515
+    second: duran_171
+  - first:
+      213: 5007302008697618413
+    second: duran_172
+  - first:
+      213: 5899953682768477544
+    second: duran_173
+  - first:
+      213: 8159031456887387280
+    second: duran_174
+  - first:
+      213: -7170526552971357052
+    second: duran_175
+  - first:
+      213: 270814670244235999
+    second: duran_176
+  - first:
+      213: -4252489499666868450
+    second: duran_177
+  - first:
+      213: 221817771959136518
+    second: duran_178
+  - first:
+      213: 6402282075522372283
+    second: duran_179
+  - first:
+      213: -7098355143384043667
+    second: duran_180
+  - first:
+      213: 8221212417020204842
+    second: duran_181
+  - first:
+      213: 9186208024062491568
+    second: duran_182
+  - first:
+      213: 803317781535521257
+    second: duran_183
+  - first:
+      213: -5606344929489860982
+    second: duran_184
+  - first:
+      213: 6589130274274909443
+    second: duran_185
+  - first:
+      213: -8197564679984658871
+    second: duran_186
+  - first:
+      213: -3747623124212245004
+    second: duran_187
+  - first:
+      213: -2512797306227804978
+    second: duran_188
+  - first:
+      213: 412014535525781641
+    second: duran_189
+  - first:
+      213: 7732411684520206301
+    second: duran_190
+  - first:
+      213: -6396350368485158461
+    second: duran_191
+  - first:
+      213: 6363537877675088253
+    second: duran_192
+  - first:
+      213: 367578181939635643
+    second: duran_193
+  - first:
+      213: 6355296429203922141
+    second: duran_194
+  - first:
+      213: 8073763534941921469
+    second: duran_195
+  - first:
+      213: -517012279329445147
+    second: duran_196
+  - first:
+      213: -6644989977663473872
+    second: duran_197
+  - first:
+      213: 8755058023033885916
+    second: duran_198
+  - first:
+      213: -2952340288115338022
+    second: duran_199
+  - first:
+      213: -4133305991973502456
+    second: duran_200
+  - first:
+      213: 2343465329908048337
+    second: duran_201
+  - first:
+      213: -2072406624964457746
+    second: duran_202
+  - first:
+      213: -4542127369873700011
+    second: duran_203
+  - first:
+      213: 7240057766078794262
+    second: duran_204
+  - first:
+      213: -7351597093539067544
+    second: duran_205
+  - first:
+      213: 4639200535126075913
+    second: duran_206
+  - first:
+      213: -8536003302391127009
+    second: duran_207
+  - first:
+      213: -1685289680352377905
+    second: duran_208
+  - first:
+      213: 3591629676321028474
+    second: duran_209
+  - first:
+      213: -4411044394740291300
+    second: duran_210
+  - first:
+      213: 2309052126462190333
+    second: duran_211
+  - first:
+      213: 8049889178247274815
+    second: duran_212
+  - first:
+      213: 4236134884904696702
+    second: duran_213
+  - first:
+      213: 1481682201365941108
+    second: duran_214
+  - first:
+      213: -3525639960502023991
+    second: duran_215
+  - first:
+      213: -5552208547927551325
+    second: duran_216
+  - first:
+      213: 7051890007116734718
+    second: duran_217
+  - first:
+      213: -93925660079133621
+    second: duran_218
+  - first:
+      213: 4443591426359140016
+    second: duran_219
+  - first:
+      213: -5285249489994442429
+    second: duran_220
+  - first:
+      213: 4908559997278441104
+    second: duran_221
+  - first:
+      213: -851530208929647727
+    second: duran_222
+  - first:
+      213: 3251476971118523091
+    second: duran_223
+  - first:
+      213: 3374890484095194563
+    second: duran_224
+  - first:
+      213: 948189623037146095
+    second: duran_225
+  - first:
+      213: -1761712195432923174
+    second: duran_226
+  - first:
+      213: 8404633040666069838
+    second: duran_227
+  - first:
+      213: -3110708252860890713
+    second: duran_228
+  - first:
+      213: -3952021431773240334
+    second: duran_229
+  - first:
+      213: 8782448936099229336
+    second: duran_230
+  - first:
+      213: 3761456039461045911
+    second: duran_231
+  - first:
+      213: 560664416150437577
+    second: duran_232
+  - first:
+      213: 537579928154358740
+    second: duran_233
+  - first:
+      213: 2049624878331087067
+    second: duran_234
+  - first:
+      213: 9050084997804894561
+    second: duran_235
+  - first:
+      213: -3064548893004172357
+    second: duran_236
+  - first:
+      213: -2622542609580838756
+    second: duran_237
+  - first:
+      213: -4091446243178097971
+    second: duran_238
+  - first:
+      213: 4366771189600284872
+    second: duran_239
+  - first:
+      213: 8455963660334514098
+    second: duran_240
+  - first:
+      213: 4637808817091517195
+    second: duran_241
+  - first:
+      213: -5913747045142615850
+    second: duran_242
+  - first:
+      213: 8489073522217897750
+    second: duran_243
+  - first:
+      213: 8850422607275671755
+    second: duran_244
+  - first:
+      213: 8711375350689669865
+    second: duran_245
+  - first:
+      213: -6626635483027613575
+    second: duran_246
+  - first:
+      213: -689617376670628201
+    second: duran_247
+  - first:
+      213: -3678645081573649711
+    second: duran_248
+  - first:
+      213: -7717001222084503855
+    second: duran_249
+  - first:
+      213: -6734570492281242208
+    second: duran_250
+  - first:
+      213: 2264418731213116048
+    second: duran_251
+  - first:
+      213: -8701077605341521526
+    second: duran_252
+  - first:
+      213: 5117843688207504246
+    second: duran_253
+  - first:
+      213: -2529925488111911463
+    second: duran_254
+  - first:
+      213: 7753531837493133750
+    second: duran_255
+  - first:
+      213: -8203887750170925816
+    second: duran_256
+  - first:
+      213: 8317442732280484911
+    second: duran_257
+  - first:
+      213: -2142765171883649751
+    second: duran_258
+  - first:
+      213: -3349020367309629967
+    second: duran_259
+  - first:
+      213: 8603420394724626383
+    second: duran_260
+  - first:
+      213: 1886081213985947804
+    second: duran_261
+  - first:
+      213: -8972848858015782161
+    second: duran_262
+  - first:
+      213: -6727980851218038825
+    second: duran_263
+  - first:
+      213: 6983645602749088387
+    second: duran_264
+  - first:
+      213: -8241808513505044530
+    second: duran_265
+  - first:
+      213: 3412745895903156148
+    second: duran_266
+  - first:
+      213: 5154531263010747596
+    second: duran_267
+  - first:
+      213: -7981847155505551448
+    second: duran_268
+  - first:
+      213: 5054088780951826666
+    second: duran_269
+  - first:
+      213: -118121898558728670
+    second: duran_270
+  - first:
+      213: 6112903930620745990
+    second: duran_271
+  - first:
+      213: 3040124979153002022
+    second: duran_272
+  - first:
+      213: -2028669373016079753
+    second: duran_273
+  - first:
+      213: -5556084554481942810
+    second: duran_274
+  - first:
+      213: -2440038672482443409
+    second: duran_275
+  - first:
+      213: -3536168349719524946
+    second: duran_276
+  - first:
+      213: 4963060697769618471
+    second: duran_277
+  - first:
+      213: -217696136929933680
+    second: duran_278
+  - first:
+      213: 4946388856339997537
+    second: duran_279
+  - first:
+      213: 169118399317600226
+    second: duran_280
+  - first:
+      213: -5587626659848509096
+    second: duran_281
+  - first:
+      213: -1520527912654852599
+    second: duran_282
+  - first:
+      213: 8303275799459887851
+    second: duran_283
+  - first:
+      213: -5476660428017007708
+    second: duran_284
+  - first:
+      213: 7468002014975068442
+    second: duran_285
+  - first:
+      213: 3107639166210297376
+    second: duran_286
+  - first:
+      213: 2761165158502468866
+    second: duran_287
+  - first:
+      213: 5962801002753126788
+    second: duran_288
+  - first:
+      213: -6719519529228097031
+    second: duran_289
+  - first:
+      213: -7186843203437737669
+    second: duran_290
+  - first:
+      213: -2374918625355826914
+    second: duran_291
+  - first:
+      213: 6253243794519123535
+    second: duran_292
+  - first:
+      213: 7940099653225773312
+    second: duran_293
+  - first:
+      213: -5869940599178071168
+    second: duran_294
+  - first:
+      213: 4089179547347101144
+    second: duran_295
+  - first:
+      213: 2502220810310219210
+    second: duran_296
+  - first:
+      213: -5341886199528350403
+    second: duran_297
+  - first:
+      213: -5966302439119993144
+    second: duran_298
+  - first:
+      213: 7009751151606930677
+    second: duran_299
+  - first:
+      213: 2044051796137960065
+    second: duran_300
+  - first:
+      213: 3914486032842747489
+    second: duran_301
+  - first:
+      213: -3405790214428266789
+    second: duran_302
+  - first:
+      213: 2312954422010547696
+    second: duran_303
+  - first:
+      213: -2474955144097991451
+    second: duran_304
+  - first:
+      213: 7074455233870223347
+    second: duran_305
+  - first:
+      213: -4886771889900676781
+    second: duran_306
+  - first:
+      213: 4869394367683463637
+    second: duran_307
+  - first:
+      213: -5808423889431937415
+    second: duran_308
+  - first:
+      213: -2549303991300037165
+    second: duran_309
+  - first:
+      213: -6724272425118576268
+    second: duran_310
+  - first:
+      213: 7087981273249839601
+    second: duran_311
+  - first:
+      213: -2536366187725329602
+    second: duran_312
+  - first:
+      213: 7210192431704817574
+    second: duran_313
+  - first:
+      213: 5100174897053496553
+    second: duran_314
+  - first:
+      213: 1748629272483812729
+    second: duran_315
+  - first:
+      213: 8286044853633773602
+    second: duran_316
+  - first:
+      213: -7147075380009184176
+    second: duran_317
+  - first:
+      213: 3992235390108180052
+    second: duran_318
+  - first:
+      213: 8438704701118317375
+    second: duran_319
+  - first:
+      213: -6078947580549681358
+    second: duran_320
+  - first:
+      213: -8084085739103471106
+    second: duran_321
+  - first:
+      213: -3566374645358154463
+    second: duran_322
+  - first:
+      213: 564529972036784415
+    second: duran_323
+  - first:
+      213: 403234085026306993
+    second: duran_324
+  - first:
+      213: -6487304810539855878
+    second: duran_325
+  - first:
+      213: 1027906882395678068
+    second: duran_326
+  - first:
+      213: 6919093038837974805
+    second: duran_327
+  - first:
+      213: 279808572055630421
+    second: duran_328
+  - first:
+      213: 1512355760158185141
+    second: duran_329
+  - first:
+      213: -8049983794334838701
+    second: duran_330
+  - first:
+      213: -7177084688004892188
+    second: duran_331
+  - first:
+      213: -7845103209295585340
+    second: duran_332
+  - first:
+      213: 325354529136057484
+    second: duran_333
+  - first:
+      213: -2496088585793233306
+    second: duran_334
+  - first:
+      213: 3969387009294080403
+    second: duran_335
+  - first:
+      213: 3321163265373731275
+    second: duran_336
+  - first:
+      213: 2660237418339252412
+    second: duran_337
+  - first:
+      213: -4499486196331406094
+    second: duran_338
+  - first:
+      213: 8571420736502220409
+    second: duran_339
+  - first:
+      213: -1545769267591137524
+    second: duran_340
+  - first:
+      213: -4277108739973301978
+    second: duran_341
+  - first:
+      213: -2661214783980719036
+    second: duran_342
+  - first:
+      213: -6900690743053194968
+    second: duran_343
+  - first:
+      213: 4309765492204071142
+    second: duran_344
+  - first:
+      213: -5717886098252280196
+    second: duran_345
+  - first:
+      213: 1162823682519817685
+    second: duran_346
+  - first:
+      213: -3889516115738628599
+    second: duran_347
+  - first:
+      213: -386500400610776388
+    second: duran_348
+  - first:
+      213: -3437303176266739121
+    second: duran_349
+  - first:
+      213: 5629199113242368845
+    second: duran_350
+  - first:
+      213: -8107666724947701906
+    second: duran_351
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duran_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189408f3dba623660800000000000000
+      internalID: 7364065701750917505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1261
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07bca1b47ca3950800000000000000
+      internalID: 6429670543410819267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebaf39d0d762ea90800000000000000
+      internalID: -7286147100436354069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1260
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17f6fc0c93648c0800000000000000
+      internalID: -4015458517477527095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1259
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6fe15b12fd4b020800000000000000
+      internalID: 2356753840887232190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1265
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da8c9da5d2c7f50800000000000000
+      internalID: 6880424198939389244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1261
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ddf2b175bad4630800000000000000
+      internalID: 3912972041861455105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1261
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c944f3394dbc4200800000000000000
+      internalID: 165715408407775681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1262
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa7be04ec5f1b10800000000000000
+      internalID: 1954382897871302449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1210
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caaea86182b79d60800000000000000
+      internalID: 7896976740494256835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1210
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57f585b5d5a1080800000000000000
+      internalID: -9215951040554240598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1211
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac6928a8a45cc030800000000000000
+      internalID: 3516278492422040742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1211
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c6a3d0343f49af0800000000000000
+      internalID: -390419798364099448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1211
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a593f5dc286c4ef0800000000000000
+      internalID: -122608548068485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1211
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bcc234edb6403c0800000000000000
+      internalID: -4394268734052840603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1211
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d46ba56ff4df7b0800000000000000
+      internalID: -5188903276158497427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1211
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a07c87bbbf1c820800000000000000
+      internalID: 2936905214626040433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1211
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f4f364ed545b20800000000000000
+      internalID: 3122223677185521806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1210
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bd9ef4767069520800000000000000
+      internalID: 2708360366213684025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1212
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49850aea79aa41b0800000000000000
+      internalID: -5671534435342382769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1161
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657c3ae7369603d0800000000000000
+      internalID: -3240737714949294742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1153
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31468fb2c7d7c10800000000000000
+      internalID: 2052933533443560357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1161
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b5e7491a6f75d0800000000000000
+      internalID: -3062612564775683934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1159
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd808f8390e6dfa40800000000000000
+      internalID: 5403596113804003549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1161
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaabeead46163180800000000000000
+      internalID: -9136090271171499316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1161
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6749dac03f2860800000000000000
+      internalID: 7507272751636769851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1160
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11eca99e17e3b1b0800000000000000
+      internalID: -5641911789551820518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a45c8b4acb05f0800000000000000
+      internalID: -789314883847674843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54169522558442ce0800000000000000
+      internalID: -1430939251111272123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1111
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60182818b216b4a50800000000000000
+      internalID: 6506400926151115014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1111
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ce9be490c53030800000000000000
+      internalID: 3473894433426948881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1111
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7adee6c97dd060800000000000000
+      internalID: 6979868892811918913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1110
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0814706f3c3be40800000000000000
+      internalID: 5671091817240690881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1110
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a416952d95d83910800000000000000
+      internalID: 1817437320561169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1111
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea631f3b2c8c6e250800000000000000
+      internalID: 5973682694321682094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1111
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3f68ece5c6e090800000000000000
+      internalID: -8005493666301919846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1111
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c275a7b6c854cc300800000000000000
+      internalID: 273670146763675436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_37
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1111
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc8a672c146114c0800000000000000
+      internalID: -4318560495588438861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1061
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec93d9a907a335f70800000000000000
+      internalID: 9174741121188575694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1061
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a8a806c37253390800000000000000
+      internalID: -7839316436097267062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1061
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac205addac4a3b70800000000000000
+      internalID: 8879493924890094767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1060
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f72b20443df4ca0800000000000000
+      internalID: -6030369086969315533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1060
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638134488f01bd790800000000000000
+      internalID: -7504385694525876170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1061
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270524d0f1889ec60800000000000000
+      internalID: 7847953492617613426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1056
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eafb686fe3d21d0800000000000000
+      internalID: -3373971317287047549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1061
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec787f885c1e710800000000000000
+      internalID: 1720873724691336785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1059
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd03d6a0777f7e0800000000000000
+      internalID: -1731784645035369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1011
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397c333d534763a0800000000000000
+      internalID: -6672290255355479759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1010
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b75f2595c72070800000000000000
+      internalID: 8081645300874721322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1010
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad38026a36250e90800000000000000
+      internalID: -7060194808638718550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1011
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81979604842ca10800000000000000
+      internalID: 1928183031952644306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_51
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1040
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f9b8d5e005b800800000000000000
+      internalID: 627408710271628137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1040
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5c33b5a545d390800000000000000
+      internalID: -7794247002115777580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1009
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5892c943e33f4cdc0800000000000000
+      internalID: -3619500752002864763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_54
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1035
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491ec5b04c0299c0800000000000000
+      internalID: -3922058853418657460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_55
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1007
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60785ed991d57680800000000000000
+      internalID: -8757863441561522066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1015
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eafe8105702caae0800000000000000
+      internalID: -1536817685930771741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1016
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25bec03399a4a80800000000000000
+      internalID: -8481798503659777304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1004
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96927219791a45110800000000000000
+      internalID: 1248800669035866473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_59
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1019
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf0bf4d86ec2fc60800000000000000
+      internalID: 7850564050105339818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 960
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d874eef9f6de50800000000000000
+      internalID: 6833924357731439734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 960
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b9e852cebab860800000000000000
+      internalID: 7546553867537331574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 960
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c39b6859cc0ea0800000000000000
+      internalID: -5905123629790411781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 960
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c978ba90b265c90800000000000000
+      internalID: -7181505235263185843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 960
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd412f9ab19cd2a00800000000000000
+      internalID: 733463434983773403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 960
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf60f13578867780800000000000000
+      internalID: -8685604794407030850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 961
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d2538f84f74280800000000000000
+      internalID: -9059003228211719730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 961
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad7a617f0488aa0800000000000000
+      internalID: -6158601060447954345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 958
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d285ab416b8bc7e0800000000000000
+      internalID: -1744147180678708522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 910
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b793a631d49fe0800000000000000
+      internalID: -1183090769488529442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 911
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ddedbafd8ca52b0800000000000000
+      internalID: -5594938724067648137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_71
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 911
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13784cdef871a1f0800000000000000
+      internalID: -1035413403305741537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 909
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12205c1a6836ee0800000000000000
+      internalID: -1269022640635239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 910
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c8922fed6bd830800000000000000
+      internalID: 4096989159868647901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 911
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e924b450f5f80950800000000000000
+      internalID: 6415648081751321061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_75
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 906
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d9780f86277a30800000000000000
+      internalID: 4212878372192769461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_76
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 908
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb81cebdb6fcb40800000000000000
+      internalID: 5462703465326755021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_77
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 908
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd0f3199e1d5ab0800000000000000
+      internalID: -5017820767007482991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_78
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 916
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a6e5a476e14650800000000000000
+      internalID: 6215502349421947372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 861
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c760e181fc90540800000000000000
+      internalID: 4974734965897329736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 861
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723615f9382be7d10800000000000000
+      internalID: 2125332352548823847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 861
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252d7898ea761410800000000000000
+      internalID: 1447479469655532838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_82
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 859
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09117b55c1cb5d4b0800000000000000
+      internalID: -5416216146959986288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 862
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581895ec8fd82da80800000000000000
+      internalID: -8443530251612880507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 862
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af652af1be2fb8c60800000000000000
+      internalID: 7821612269520967418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 856
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c4cde2c1279ce0800000000000000
+      internalID: -1398612038178781794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_86
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 865
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efd6204159ade20800000000000000
+      internalID: 3376174783840255534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_87
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 864
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dbbec0bddacc280800000000000000
+      internalID: -9021644797203727051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_88
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 857
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af11ee3d431ec8310800000000000000
+      internalID: 1408748400470266362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 857
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58a0848df5a55b0800000000000000
+      internalID: -5378881422414412340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 810
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec13094e53c1b120800000000000000
+      internalID: 2427936483848690923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 811
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6fdb9928855dd0800000000000000
+      internalID: -2497940706016924228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 810
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9181fda976b730800000000000000
+      internalID: 4014529905835482070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_93
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 809
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004e1536fea03010800000000000000
+      internalID: 1166624675965321217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 812
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb88397bcb6637c0800000000000000
+      internalID: -4091964689763234845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 812
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c42e2687133170800000000000000
+      internalID: 8156889215165317887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_96
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 810
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b7217e7dd2373b0800000000000000
+      internalID: -5516014713280759006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 810
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcedc6a4108872390800000000000000
+      internalID: -7843150686917435699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_98
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 811
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5718227777a7090800000000000000
+      internalID: -8035979231525505587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_99
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 760
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc20839644b3e360800000000000000
+      internalID: 7197794844683545845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 761
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce712a19f62d7870800000000000000
+      internalID: 8682138507967299273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_101
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 761
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ca788eb4a99600800000000000000
+      internalID: 475592373904786852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 760
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dea147ef7e96fa0800000000000000
+      internalID: -5806855164461912794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 762
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b24684582b7fb0800000000000000
+      internalID: -4649077846835023644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_104
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 763
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9597e74c681f8a80800000000000000
+      internalID: -8462518321463978597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 761
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32053ad977bbb18c0800000000000000
+      internalID: -4027419319332548573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_106
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 762
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ec4ba0cf584fe0800000000000000
+      internalID: -1204607619209304603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_107
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 760
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa841077df2dc5b0800000000000000
+      internalID: -5346564580274042117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 711
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d5bfca68729be0800000000000000
+      internalID: -1471981728050065006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_109
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 711
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f4b7c76d0cf3970800000000000000
+      internalID: 8736913829566041897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 711
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdcce8bababf2600800000000000000
+      internalID: 445780199262178807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_111
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062c08a187ac9050800000000000000
+      internalID: 5808701794713085441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 703
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f555e6d84cb75040800000000000000
+      internalID: 4636381362430236144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 703
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd3d5adc3b7fed0800000000000000
+      internalID: -2380236182210225006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 706
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91260037b4839c20800000000000000
+      internalID: 3212056881564885403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_115
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 704
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb3a2f9f1fdb560800000000000000
+      internalID: 7331281824249002816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_116
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 705
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b077cf2a5b077750800000000000000
+      internalID: 6302518685504860336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_117
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 660
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0337da84c22ab6c0800000000000000
+      internalID: -4126947880993344753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_118
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 661
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89bff2821bce1a0800000000000000
+      internalID: -6778848552937613068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 660
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69006a3c6277e50d0800000000000000
+      internalID: -3432174857634840426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_120
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 652
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb0908bf1c3e770800000000000000
+      internalID: 8638961796164664516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_121
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 651
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14643d765b8ff7f50800000000000000
+      internalID: 6881492213660075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_122
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 652
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9761e6f65feb8200800000000000000
+      internalID: 183503366626830235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_123
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 653
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c9ca934f436ef0800000000000000
+      internalID: -116162013603183242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 669
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57644c3a8a39d38e0800000000000000
+      internalID: -1712049930819582347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_125
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 654
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03682a0a158c38560800000000000000
+      internalID: 7314910472692729392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_126
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 676
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd18847c884d1960800000000000000
+      internalID: 7574289916394741244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 661
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a066413344c16f0800000000000000
+      internalID: -712619654855128459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_128
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 643
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0247c040719270800000000000000
+      internalID: 8255503015470041815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 643
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7baeec2f5ffaed0800000000000000
+      internalID: -2400429653162805300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_130
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 645
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bb5614203668b0800000000000000
+      internalID: -5159383391554260331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_131
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 645
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df87b287385bc50800000000000000
+      internalID: 6680390174422662521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_132
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 642
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c383e048e354de0800000000000000
+      internalID: -1349603776432423821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_133
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 642
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f008d9cef3ae80800000000000000
+      internalID: -8168405156254124434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_134
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 611
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353449e95655bae0800000000000000
+      internalID: -1534225153884146379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_135
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 611
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0151c9f3661000800000000000000
+      internalID: 6302373828955869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 611
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ccebe087f5c750800000000000000
+      internalID: 6324733384797766477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_137
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 632
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2f93ae9bd678a90800000000000000
+      internalID: -7311754824746667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 596
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb8ad57a4c85a80800000000000000
+      internalID: -8477810075415036161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_139
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 596
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f059e271a90080800000000000000
+      internalID: -9220661247151640506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_140
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 634
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4baaf45c4522710800000000000000
+      internalID: 1666988018502382786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_141
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121f7655afc66a40800000000000000
+      internalID: 5361200715458875931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_142
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 596
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901f6c2cbef59200800000000000000
+      internalID: 186335043758526608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_143
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00612359dcae9a180800000000000000
+      internalID: -9103487003060464128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_144
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 612
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c978d8bff4f480800000000000000
+      internalID: -8866180597014739815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_145
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 611
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57cd86518f849a70800000000000000
+      internalID: 8832842554846070619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_146
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 561
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aaae166ff24f4a0800000000000000
+      internalID: -6560566021920740775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_147
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 561
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fe1bf9e53807d0800000000000000
+      internalID: -2952050276684597052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 561
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814e5c9cdf2c1240800000000000000
+      internalID: 4763735130413875589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_149
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 560
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71304f82ca7296d80800000000000000
+      internalID: -8257024821432155369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_150
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 561
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d779fc7d5406afb50800000000000000
+      internalID: 6627715654718822269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 561
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86cba19433fd8b0800000000000000
+      internalID: -5125321461850150691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_152
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 558
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c3d091a89f7fb0800000000000000
+      internalID: -4647828470736107020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_153
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 562
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da88b10378853a0800000000000000
+      internalID: -6676437806886638186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 562
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d019fac767cba10800000000000000
+      internalID: 1926545018501270895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_155
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 513
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ba351e8db111e0800000000000000
+      internalID: -2228791922632510437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_156
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 512
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4af51860d1b2430800000000000000
+      internalID: 3759130227748349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_157
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 510
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef30efe2992f440800000000000000
+      internalID: 4968201766052298356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_158
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 511
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a087e372693a120800000000000000
+      internalID: 2423946119751404092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 511
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2061589782d660800000000000000
+      internalID: 7409133425247923647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_160
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 511
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f30c2d14d76b9c0800000000000000
+      internalID: -3911801504662536368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_161
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 510
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61e1ccc8b355150800000000000000
+      internalID: 5860655965998552743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_162
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 512
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ceb639edb29130800000000000000
+      internalID: 3572126263801726847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_163
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 504
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c707a2f10c2880800000000000000
+      internalID: -8634524243880065389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 461
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39044570b7842dd0800000000000000
+      internalID: -2511733500214507203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_165
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 461
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fb03f7e78a9c00800000000000000
+      internalID: 908187705153418401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_166
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 461
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4f7844b9aaaff0800000000000000
+      internalID: -24020256221606142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_167
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 460
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f194a018325290800000000000000
+      internalID: -7903192751950138502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_168
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 460
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf32574c6c13260800000000000000
+      internalID: 7075655036656942213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_169
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 460
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6071db7322963600800000000000000
+      internalID: 447705894068777071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_170
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 456
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5e7bbf12f2a0f0800000000000000
+      internalID: -1107056340276192147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_171
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 463
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507b4d14a2a7a800800000000000000
+      internalID: 623645899163922515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_172
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 476
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7587a5a28d7540800000000000000
+      internalID: 5007302008697618413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_173
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 454
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3cac7d98d0e150800000000000000
+      internalID: 5899953682768477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_174
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 411
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b203b1e3ba3170800000000000000
+      internalID: 8159031456887387280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_175
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 411
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d2a5571c2d7c90800000000000000
+      internalID: -7170526552971357052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_176
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 411
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4fdbf18022c300800000000000000
+      internalID: 270814670244235999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_177
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 409
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171749a45f1cf4c0800000000000000
+      internalID: -4252489499666868450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_178
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 411
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6013e7e961e041300800000000000000
+      internalID: 221817771959136518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_179
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 411
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29c5f70a979d850800000000000000
+      internalID: 6402282075522372283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_180
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 411
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe6051b939d7d90800000000000000
+      internalID: -7098355143384043667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_181
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 410
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27158ba22d971270800000000000000
+      internalID: 8221212417020204842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_182
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 412
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb761bf687fb7f70800000000000000
+      internalID: 9186208024062491568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 363
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fd222445f52b00800000000000000
+      internalID: 803317781535521257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_184
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 362
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c1758df24232b0800000000000000
+      internalID: -5606344929489860982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 360
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9de0e21b417b50800000000000000
+      internalID: 6589130274274909443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 361
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946c93a2b566c3e80800000000000000
+      internalID: -8197564679984658871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_187
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 361
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd1a41df94cdfbc0800000000000000
+      internalID: -3747623124212245004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_188
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 361
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4bbb1d920c02dd0800000000000000
+      internalID: -2512797306227804978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_189
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 363
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980df408905c7b500800000000000000
+      internalID: 412014535525781641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_190
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 364
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf18e0857b0f4b60800000000000000
+      internalID: 7732411684520206301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_191
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 360
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d08baa399b37a0800000000000000
+      internalID: -6396350368485158461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 311
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d791199fbf3df4850800000000000000
+      internalID: 6363537877675088253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_193
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 311
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb522b1b866e91500800000000000000
+      internalID: 367578181939635643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_194
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 311
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc12093e6c823850800000000000000
+      internalID: 6355296429203922141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_195
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 311
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db027bc8825cb0070800000000000000
+      internalID: 8073763534941921469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_196
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 311
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaad0a321433d8f0800000000000000
+      internalID: -517012279329445147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_197
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 310
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037765d62d048c3a0800000000000000
+      internalID: -6644989977663473872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_198
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 304
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45edab2e6308970800000000000000
+      internalID: 8755058023033885916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_199
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 313
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49fce662e2707d0800000000000000
+      internalID: -2952340288115338022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_200
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 305
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020d68791c83a6c0800000000000000
+      internalID: -4133305991973502456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_201
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 261
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ec942d49a58020800000000000000
+      internalID: 2343465329908048337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_202
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 260
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac3d897255d33e0800000000000000
+      internalID: -2072406624964457746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_203
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 261
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b491ae83f17f0c0800000000000000
+      internalID: -4542127369873700011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_204
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 261
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4f64cd2ad97460800000000000000
+      internalID: 7240057766078794262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_205
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 261
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694fc3d461e9f990800000000000000
+      internalID: -7351597093539067544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aedf1ae40c16040800000000000000
+      internalID: 4639200535126075913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_207
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f146a6fd8360a8980800000000000000
+      internalID: -8536003302391127009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_208
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 262
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc307faf6f5ac98e0800000000000000
+      internalID: -1685289680352377905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_209
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 261
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79bddd492808d130800000000000000
+      internalID: 3591629676321028474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19e6036e72d8c2c0800000000000000
+      internalID: -4411044394740291300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_211
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a3a5dca66b0020800000000000000
+      internalID: 2309052126462190333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_212
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 210
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31a0b6be83f6bf60800000000000000
+      internalID: 8049889178247274815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_213
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 211
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b726bdb36c9ca30800000000000000
+      internalID: 4236134884904696702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_214
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 210
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8f62ac1eff8410800000000000000
+      internalID: 1481682201365941108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_215
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 211
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ca54b229621fc0800000000000000
+      internalID: -3525639960502023991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_216
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 211
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a214e51eb792f2b0800000000000000
+      internalID: -5552208547927551325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_217
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 212
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e15559985dd160800000000000000
+      internalID: 7051890007116734718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_218
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 211
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c60bb1c1f42bef0800000000000000
+      internalID: -93925660079133621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_219
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9b1febdecaad30800000000000000
+      internalID: 4443591426359140016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_220
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349119f579507a6b0800000000000000
+      internalID: -5285249489994442429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_221
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e49749f45be1440800000000000000
+      internalID: 4908559997278441104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_222
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 163
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193fb3d59c1ce24f0800000000000000
+      internalID: -851530208929647727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_223
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 161
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f1e204119f1d20800000000000000
+      internalID: 3251476971118523091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_224
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5175ca30506de20800000000000000
+      internalID: 3374890484095194563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_225
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 162
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe337dc3075a82d00800000000000000
+      internalID: 948189623037146095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_226
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 161
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf3fba97142d87e0800000000000000
+      internalID: -1761712195432923174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_227
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 162
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8968883143a470800000000000000
+      internalID: 8404633040666069838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_228
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c954435b84d4d0800000000000000
+      internalID: -3110708252860890713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_229
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ec6e42799729c0800000000000000
+      internalID: -3952021431773240334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_230
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea336a6c681e970800000000000000
+      internalID: 8782448936099229336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_231
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 111
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c25eb650633430800000000000000
+      internalID: 3761456039461045911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_232
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 109
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce39d2e051e7c700800000000000000
+      internalID: 560664416150437577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_233
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34500b81ed57700800000000000000
+      internalID: 537579928154358740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_234
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 106
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84abba7fab17c10800000000000000
+      internalID: 2049624878331087067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_235
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 122
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a0492b5c589d70800000000000000
+      internalID: 9050084997804894561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_236
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 106
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb37babb4098875d0800000000000000
+      internalID: -3064548893004172357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_237
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 110
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90bb93346bda9bd0800000000000000
+      internalID: -2622542609580838756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_238
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc253c9b1534837c0800000000000000
+      internalID: -4091446243178097971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_239
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f883c243e99c30800000000000000
+      internalID: 4366771189600284872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_240
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb9dfb52e995570800000000000000
+      internalID: 8455963660334514098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_241
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 59
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1ae60c8ecc5040800000000000000
+      internalID: 4637808817091517195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_242
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d822c215662eeda0800000000000000
+      internalID: -5913747045142615850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_243
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 61
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc8f3346f3fc570800000000000000
+      internalID: 8489073522217897750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_244
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 55
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c0c2487403da70800000000000000
+      internalID: 8850422607275671755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_245
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 63
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a3f20ab505e870800000000000000
+      internalID: 8711375350689669865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_246
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 56
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d32a33267904a0800000000000000
+      internalID: -6626635483027613575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_247
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7964c9056acfd66f0800000000000000
+      internalID: -689617376670628201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_248
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 11
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d29012e9c3d2fcc0800000000000000
+      internalID: -3678645081573649711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_249
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d5626644b7e490800000000000000
+      internalID: -7717001222084503855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_250
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 13
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adbfbc81dff982a0800000000000000
+      internalID: -6734570492281242208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_251
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d2b0b6d4dc6f10800000000000000
+      internalID: 2264418731213116048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_252
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89138aa4009f3780800000000000000
+      internalID: -8701077605341521526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_253
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673559b08bb360740800000000000000
+      internalID: 5117843688207504246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_254
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 11
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf1e43c26e3ecd0800000000000000
+      internalID: -2529925488111911463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duran_255
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c57050241a9b60800000000000000
+      internalID: 7753531837493133750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
